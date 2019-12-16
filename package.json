@@ -10,6 +10,7 @@
   "keywords": ["password", "entropy", "validation"],
   "author": "Don Burks <don@donburks.com>",
   "license": "ISC",
+  "repository": "git@github.com:donburks/password-entropy.git",
   "devDependencies": {
     "jest": "^24.9.0"
   }

@@ -39,7 +39,7 @@ Returns:
 ```javascript
 "use strict";
 
-const PasswordEntropy = require("password-entropy");
+const PasswordEntropy = require("pw-entropy");
 
 const validator = new PasswordEntropy();
 

@@ -1,11 +1,11 @@
-# Password Entropy
+# PW Entropy
 
 A simple module for calculating the entropy of a given password. There are a few configurable options to make it work for your use case as well. 
 
 ## Installation
 
 ```
-npm i password-entropy
+npm i pw-entropy
 ```
 
 ## API

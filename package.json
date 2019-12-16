@@ -1,5 +1,5 @@
 {
-  "name": "password-entropy",
+  "name": "pw-entropy",
   "version": "1.0.0",
   "description": "This module calculates the entropy of a password",
   "main": "index.js",

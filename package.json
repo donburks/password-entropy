@@ -1,0 +1,16 @@
+{
+  "name": "password-entropy",
+  "version": "1.0.0",
+  "description": "This module calculates the entropy of a password",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run lint && jest --no-cache",
+    "lint": "eslint src/*.js"
+  },
+  "keywords": ["password", "entropy", "validation"],
+  "author": "Don Burks <don@donburks.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
